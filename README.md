@@ -1,2 +1,2 @@
-# fridge-door-monitor
-Raspberry Pi project to monitor fridge door
+# Raspberry Pi project to monitor fridge door
+https://fridgedoor.glitch.me/
